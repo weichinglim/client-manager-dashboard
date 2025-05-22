@@ -20,7 +20,7 @@ This is a client manager dashboard to perform CRUD operations using Node.js, Rea
 - GitHub
 
 ## Acknowledgements
-Credits: [Kenn Onirom](https://www.youtube.com/watch?v=gTD8b5Yxuuo)  
+Credits: [Kenn Onirom](https://www.youtube.com/watch?v=gTD8b5Yxuuo) (YouTube)  
 Docs: Helpful notes to setup and implement this project. [Link to Kenn's Google docs](https://docs.google.com/document/d/e/2PACX-1vTfYBAnT9sZ96xjGsozr2Fss03b9xoCUxMH0LE6F7zrmDRmMvhiuNkQtriM6xT_w1uYUfmp0AfbYy21/pub)  
 
 ## Interface Overview
@@ -42,6 +42,6 @@ Docs: Helpful notes to setup and implement this project. [Link to Kenn's Google 
 - Tailwind for styling the website
 
 ## Future Improvements
-- Add user authentication
+- Add user authentification such as login, signup and password reset
 - Write unit tests for backend routes
 - Deploy using Render or Vercel
