@@ -1,5 +1,23 @@
 # client-manager-dashboard
-This is a client manager dashboard to perform CRUD operations using Node.js, React, Tailwind and PostgreSQL.  
+This is a client manager dashboard to perform CRUD operations using Node.js, React, Tailwind and PostgreSQL. 
+
+### Tech Stack
+**Frontend**:
+- React
+
+**Backend**:
+- Node.js
+- Express
+- CORS
+- dotenv
+
+**Database**:
+- PostgreSQL
+
+**Tools**:
+- VS Code
+- Postman (for testing APIs)
+- GitHub
 
 ## Acknowledgements
 Credits: [Kenn Onirom](https://www.youtube.com/watch?v=gTD8b5Yxuuo)  
@@ -21,6 +39,7 @@ Docs: Helpful notes to setup and implement this project. [Link to Kenn's Google 
 - Backend:
   - Create folders: services, controllers, routes
   -  CRUD operations works by firstly passing from SERVICES to CONTROLLER to ROUTE to index.js
+- Tailwind for styling the website
 
 ## Future Improvements
 - Add user authentication
