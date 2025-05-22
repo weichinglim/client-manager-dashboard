@@ -15,7 +15,12 @@ Docs: Helpful notes to setup and implement this project. [Link to Kenn's Google 
 - ModalForm to Update Client
 ![update-client](./images/UpdateClient.png)
 
-## Lessons Learned
+## Notes & Lessons Learned
+- Run frontend: npm run dev
+- Run backend: npm run start
+- Backend:
+  - Create folders: services, controllers, routes
+  -  CRUD operations works by firstly passing from SERVICES to CONTROLLER to ROUTE to index.js
 
 ## Future Improvements
 - Add user authentication
